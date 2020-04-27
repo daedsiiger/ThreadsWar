@@ -1,0 +1,7 @@
+C:\Users\Rustamka\source\repos\ThreadsWar\ThreadsWar\bin\Debug\ThreadsWar.exe.config
+C:\Users\Rustamka\source\repos\ThreadsWar\ThreadsWar\bin\Debug\ThreadsWar.exe
+C:\Users\Rustamka\source\repos\ThreadsWar\ThreadsWar\bin\Debug\ThreadsWar.pdb
+C:\Users\Rustamka\source\repos\ThreadsWar\ThreadsWar\obj\Debug\ThreadsWar.csprojAssemblyReference.cache
+C:\Users\Rustamka\source\repos\ThreadsWar\ThreadsWar\obj\Debug\ThreadsWar.csproj.CoreCompileInputs.cache
+C:\Users\Rustamka\source\repos\ThreadsWar\ThreadsWar\obj\Debug\ThreadsWar.exe
+C:\Users\Rustamka\source\repos\ThreadsWar\ThreadsWar\obj\Debug\ThreadsWar.pdb
