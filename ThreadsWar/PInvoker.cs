@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ThreadsWar
 {
@@ -37,7 +33,6 @@ namespace ThreadsWar
             Space = 0x20,
             Left = 0x25,
             Right = 0x27,
-            None = 0x999,
         }
 
         [StructLayout(LayoutKind.Explicit, CharSet = CharSet.Unicode)]
