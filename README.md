@@ -1,2 +1,2 @@
 # Threads War
- Console multi-threading app
+ Console multi-threading game
